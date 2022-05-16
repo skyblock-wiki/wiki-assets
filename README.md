@@ -17,7 +17,7 @@ Individual Authors of certain contents in this repository are credited here.
 * [User:HackedChicken](https://hypixel-skyblock.fandom.com/wiki/User:HackedChicken) for `gifegg-1.gif` [[1]](#ref-1)
 
 ## Attributions
-This is a list of files from other sources that requires attributions.
+This is a list of files from other sources that require attributions.
 * `egg-6.png` is from "[File:Egg JE2 BE2.png](https://minecraft.fandom.com/wiki/File:Egg_JE2_BE2.png)" by [Minecraft Wiki](https://minecraft.fandom.com/). The texture is attributed to [Mojang Studios](https://account.mojang.com/) and is licensed under [Minecraft Eula](https://account.mojang.com/documents/minecraft_eula).
 
 ## References

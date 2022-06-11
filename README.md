@@ -18,7 +18,7 @@ Individual Authors of certain contents in this repository are credited here.
 
 ## Attributions
 This is a list of files from other sources that require attributions.
-* `egg-6.png` is from "[File:Egg JE2 BE2.png](https://minecraft.fandom.com/wiki/File:Egg_JE2_BE2.png)" by [Minecraft Wiki](https://minecraft.fandom.com/). The texture is attributed to [Mojang Studios](https://account.mojang.com/) and is licensed under [Minecraft Eula](https://account.mojang.com/documents/minecraft_eula).
+* [egg-6.png](/images/egg-6.png) is from "[File:Egg JE2 BE2.png](https://minecraft.fandom.com/wiki/File:Egg_JE2_BE2.png)" by [Minecraft Wiki](https://minecraft.fandom.com/). The texture is attributed to [Mojang Studios](https://account.mojang.com/) and is licensed under [Minecraft Eula](https://account.mojang.com/documents/minecraft_eula).
 
 ## References
 <ol>

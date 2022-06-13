@@ -1,0 +1,1 @@
+This is a redistribution of *Minecraft-2* created by [Snoo999](https://hypixel-skyblock.fandom.com/wiki/User:Snoo999), released under [Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -1,0 +1,1 @@
+This is a redistribution of [unifont](https://unifoundry.com/unifont/index.html) by [Unifoundry.com](https://unifoundry.com/index.html), released under the terms of the [GNU General Public License (GNU GPL) version 2.0 or later](https://opensource.org/licenses/GPL-2.0).

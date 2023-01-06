@@ -1,0 +1,10 @@
+/* Minecraft-2 */
+@font-face {
+	font-family: 'Minecraft-2';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft-2/Minecraft-2.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft-2/Minecraft-2.woff") format('woff');
+	unicode-range: U+0020-007F,U+00A0,U+2018-2019,U+201C-201D;
+}

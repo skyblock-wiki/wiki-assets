@@ -1,0 +1,283 @@
+/* Minecraft */
+@font-face {
+	font-family: 'Minecraft';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft/1.8.9/Minecraft.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft/1.8.9/Minecraft.woff") format('woff');
+	unicode-range: U+0020-007E,U+00A0-00A1,U+00A3,U+00AA-00AC,U+00AE,U+00B0-00B2,U+00B7,U+00BA-00BD,U+00BF-00C2,U+00C4-00CB,U+00CD,U+00D1,U+00D3-00D8,U+00DA,U+00DC,U+00DF-00EF,U+00F1-00FC,U+00FF,U+011F,U+0130-0131,U+0152-0153,U+015E-015F,U+0174-0175,U+017E,U+0192,U+0207,U+0393,U+0398,U+03A3,U+03A6,U+03A9,U+03B1-03B2,U+03B4,U+03BC,U+03C0,U+03C3-03C4,U+207F,U+2205,U+2208,U+2219-221A,U+221E,U+2229,U+2248,U+2261,U+2264-2265,U+2320-2321,U+2500,U+2502,U+250C,U+2510,U+2514,U+2518,U+251C,U+2524,U+252C,U+2534,U+253C,U+2550-256C,U+2580,U+2584,U+2588,U+258C,U+2590-2593,U+25A0;
+}
+/* Minecraft-2 - "MinecraftS" */
+@font-face {
+	font-family: 'MinecraftS';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft-2/Minecraft-2.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft-2/Minecraft-2.woff") format('woff');
+	unicode-range: U+0020-007F,U+00A0,U+2018-2019,U+201C-201D;
+}
+/* UnifontM */
+@font-face {
+	font-family: 'UnifontM';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/wiki-use/unifont-min.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/wiki-use/unifont-min.woff") format('woff');
+	unicode-range: U+00A6,U+00A9,U+02AC,U+046A,U+0489,U+0B8F,U+0E51,U+127E,U+168F,U+16E4,U+1750,U+1805,U+2019,U+2022-2023,U+204D,U+2051,U+2122,U+2190,U+2192,U+2197,U+21E6,U+21E8,U+222B,U+22D7,U+23E3,U+24B6-24CF,U+24EA,U+2501,U+253B,U+256F,U+2581-2583,U+2585-2586,U+25A1,U+25AC,U+25B2,U+25B6,U+25B8,U+25BC,U+25C6,U+25CB,U+25FC,U+2600,U+2604,U+2618,U+2620,U+2623-2624,U+262C,U+263A,U+263D,U+265E,U+2663,U+2665,U+2668,U+266A-266B,U+2672,U+2691-2692,U+2694,U+269A,U+26A0-26A1,U+26BD,U+2706,U+270C,U+270E,U+2713-2714,U+2716,U+2726-2727,U+272A,U+272F-2730,U+2737,U+273F,U+2741-2742,U+2748,U+2763-2764,U+279C,U+27A1,U+27A4,U+29BE,U+2AFD,U+2B31,U+2E0E,U+2E15,U+FB17,U+FD3E-FD3F,U+FE35;
+}
+/* Unifont */
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c00.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c00.woff") format('woff');
+	unicode-range: U+0000-07FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c01.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c01.woff") format('woff');
+	unicode-range: U+0800-0FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c02.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c02.woff") format('woff');
+	unicode-range: U+1000-17FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c03.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c03.woff") format('woff');
+	unicode-range: U+1800-1FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c04.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c04.woff") format('woff');
+	unicode-range: U+2000-27FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c05.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c05.woff") format('woff');
+	unicode-range: U+2800-2FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c06.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c06.woff") format('woff');
+	unicode-range: U+3000-37FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c07.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c07.woff") format('woff');
+	unicode-range: U+3800-3FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c08.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c08.woff") format('woff');
+	unicode-range: U+4000-47FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c09.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c09.woff") format('woff');
+	unicode-range: U+4800-4FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c10.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c10.woff") format('woff');
+	unicode-range: U+5000-57FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c11.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c11.woff") format('woff');
+	unicode-range: U+5800-5FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c12.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c12.woff") format('woff');
+	unicode-range: U+6000-67FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c13.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c13.woff") format('woff');
+	unicode-range: U+6800-6FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c14.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c14.woff") format('woff');
+	unicode-range: U+7000-77FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c15.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c15.woff") format('woff');
+	unicode-range: U+7800-7FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c16.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c16.woff") format('woff');
+	unicode-range: U+8000-87FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c17.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c17.woff") format('woff');
+	unicode-range: U+8800-8FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c18.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c18.woff") format('woff');
+	unicode-range: U+9000-97FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c19.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c19.woff") format('woff');
+	unicode-range: U+9800-9FFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c20.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c20.woff") format('woff');
+	unicode-range: U+A000-A7FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c21.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c21.woff") format('woff');
+	unicode-range: U+A800-AFFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c22.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c22.woff") format('woff');
+	unicode-range: U+B000-B7FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c23.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c23.woff") format('woff');
+	unicode-range: U+B800-BFFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c24.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c24.woff") format('woff');
+	unicode-range: U+C000-C7FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c25.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c25.woff") format('woff');
+	unicode-range: U+C800-CFFF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c26.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c26.woff") format('woff');
+	unicode-range: U+D000-D7FF;
+}
+@font-face {
+	font-family: 'Unifont';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c27.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/unifont/chunks/unifont-c27.woff") format('woff');
+	unicode-range: U+F900-FFFF;
+}

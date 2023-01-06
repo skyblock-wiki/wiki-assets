@@ -1,0 +1,10 @@
+/* Minecraft */
+@font-face {
+	font-family: 'Minecraft';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft/1.8.9/Minecraft.woff2") format('woff2'),
+		url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@1.0/fonts/minecraft/1.8.9/Minecraft.woff") format('woff');
+	unicode-range: U+0020-007E,U+00A0-00A1,U+00A3,U+00AA-00AC,U+00AE,U+00B0-00B2,U+00B7,U+00BA-00BD,U+00BF-00C2,U+00C4-00CB,U+00CD,U+00D1,U+00D3-00D8,U+00DA,U+00DC,U+00DF-00EF,U+00F1-00FC,U+00FF,U+011F,U+0130-0131,U+0152-0153,U+015E-015F,U+0174-0175,U+017E,U+0192,U+0207,U+0393,U+0398,U+03A3,U+03A6,U+03A9,U+03B1-03B2,U+03B4,U+03BC,U+03C0,U+03C3-03C4,U+207F,U+2205,U+2208,U+2219-221A,U+221E,U+2229,U+2248,U+2261,U+2264-2265,U+2320-2321,U+2500,U+2502,U+250C,U+2510,U+2514,U+2518,U+251C,U+2524,U+252C,U+2534,U+253C,U+2550-256C,U+2580,U+2584,U+2588,U+258C,U+2590-2593,U+25A0;
+}

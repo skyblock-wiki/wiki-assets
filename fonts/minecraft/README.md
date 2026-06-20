@@ -1,1 +1,1 @@
-*Minecraft* is a font created by the [Hypixel SkyBlock Wiki Team](https://hypixel-skyblock.fandom.com/), released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+*Minecraft* is a font created by the [Hypixel SkyBlock Wiki Team](https://hypixelskyblock.minecraft.wiki/), released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

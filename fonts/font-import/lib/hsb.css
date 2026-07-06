@@ -1,0 +1,9 @@
+/* Hypixel SkyBlock */
+@font-face {
+	font-family: 'Hypixel SkyBlock';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url("https://cdn.jsdelivr.net/gh/skyblock-wiki/wiki-assets@main/fonts/hypixel-skyblock/Hypixel-SkyBlock.woff2") format('woff2');
+	unicode-range: U+12DE,U+2714,U+2716,U+E0??;
+}
